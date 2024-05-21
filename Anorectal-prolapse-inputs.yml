@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/anorectal-prolapse---primary.py
+inputModule3:
+  class: File
+  path: python/anorectal-prolapse-proctopexy---primary.py
+inputModule4:
+  class: File
+  path: python/abdominal-anorectal-prolapse---primary.py
+inputModule5:
+  class: File
+  path: python/anorectal-prolapse-fixation---primary.py
+inputModule6:
+  class: File
+  path: python/prolapse---primary.py
+inputModule7:
+  class: File
+  path: python/anorectal-prolapse-sponge---primary.py
+inputModule8:
+  class: File
+  path: python/anorectal-prolapse-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/anorectal-prolapse-colon---primary.py
+inputModule10:
+  class: File
+  path: python/perineal-anorectal-prolapse---primary.py
+inputModule11:
+  class: File
+  path: python/anorectal-prolapse-repair---primary.py
+inputModule12:
+  class: File
+  path: python/anorectal-prolapse-reduction---primary.py
+inputModule13:
+  class: File
+  path: python/anorectal-prolapse-rectum---primary.py
+inputModule14:
+  class: File
+  path: python/anorectal-prolapse-proctoptosis---primary.py
+inputModule15:
+  class: File
+  path: python/manual-anorectal-prolapse---primary.py
+inputModule16:
+  class: File
+  path: python/partial-anorectal-prolapse---primary.py
+inputModule17:
+  class: File
+  path: python/anorectal-prolapse-mucosal---primary.py
+inputModule18:
+  class: File
+  path: python/perianal-anorectal-prolapse---primary.py
+inputModule19:
+  class: File
+  path: python/anorectal-prolapse-procedure---primary.py
+inputModule20:
+  class: File
+  path: python/anorectal-prolapse-muscle---primary.py
+inputModule21:
+  class: File
+  path: python/anorectal-prolapse-levator---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
